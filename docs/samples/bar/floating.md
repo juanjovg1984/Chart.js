@@ -23,7 +23,7 @@ const actions = [
 const DATA_COUNT = 7;
 const NUMBER_CFG = {count: DATA_COUNT, min: -100, max: 100};
 
-const labels = Utils.months({count: 7});
+const labels = Utils.months({count: 6});
 const data = {
   labels: labels,
   datasets: [
